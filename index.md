@@ -1,43 +1,43 @@
-[Lecture 1](https://colab.research.google.com/drive/1FTww5Lt0wYd3OUdmuVbixKq-BWJ_5XLC)
+[Lecture 1](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_01.ipynb)
 
-[Lecture 2](https://colab.research.google.com/drive/1BcOQOE36PWnqbAMyO2SL__EdmFDu6BE0)
+[Lecture 2](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_02.ipynb)
 
-[Lecture 3](https://colab.research.google.com/drive/1qIHtSGA5T9wYtdcCQkBDTNb_8gSbESz1)
+[Lecture 3](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_03.ipynb)
 
-[Lecture 4](https://colab.research.google.com/drive/1kN2xSY0tl1-4gVgaHLkVA6Yh38tuASLg)
+[Lecture 4](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_04.ipynb)
 
-[Lecture 5](https://colab.research.google.com/drive/1c0UeS6ehHadSTpNjkkuialmSmSNhfGX3)
+[Lecture 5](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_05.ipynb)
 
-[Lecture 6](https://colab.research.google.com/drive/14v5_LYYZ9xiJCG6nSB8csJvBSWRRlHLN)
+[Lecture 6](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_06.ipynb)
 
-[Lecture 7](https://colab.research.google.com/drive/1u1NU5-DUDNpeFDTnIb6079-UwD2dUYtH)
+[Lecture 7](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_07.ipynb)
 
-[Lecture 8](https://colab.research.google.com/drive/1nHEZg1tducXDLngyj7G5gXi805mueC4O)
+[Lecture 8](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_08.ipynb)
 
-[Lecture 9](https://colab.research.google.com/drive/1GBShrwy8maGpXFz6wiVLRBUXAuRxmpzX)
+[Lecture 9](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_09.ipynb)
 
-[Lecture 10](https://colab.research.google.com/drive/1aBrEoRSoLH2mBCD58LGGnn-j7XSsc7YG)
+[Lecture 10](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_10.ipynb)
 
-[Lecture 11](https://colab.research.google.com/drive/1bvdTEOvu9XsGPu_4q1R1p1yStsxSw5Ei)
+[Lecture 11](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FLecture_11.ipynb)
 
 ---
 
-[Reading Corner 1](https://colab.research.google.com/drive/1yRDFitta1dgSVTRc54xRee-bCth8diIq)
+[Reading Corner 1](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_01.ipynb)
 
-[Reading Corner 2](https://colab.research.google.com/drive/1quillWTLNIBTprXDUZU9zyNQJUgvt8hS)
+[Reading Corner 2](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_02.ipynb)
 
-[Reading Corner 3](https://colab.research.google.com/drive/1i491CAHjZNY-13AlZeIoGDxjzV3rj9Bk)
+[Reading Corner 3](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_03.ipynb)
 
-[Reading Corner 4](https://colab.research.google.com/drive/1HXMjUO2ipfQzOAGAxDIAGLFcuS5mXFae)
+[Reading Corner 4](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_04.ipynb)
 
-[Reading Corner 5](https://colab.research.google.com/drive/1uOQIl2UB3oGxCmeC4_TU8_LUYGWebUi_)
+[Reading Corner 5](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_05.ipynb)
 
-[Reading Corner 6](https://colab.research.google.com/drive/10pvRFU7kbO5kYg9oWwtZVuGrM_wGa0ap)
+[Reading Corner 6](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_06.ipynb)
 
-[Reading Corner 7](https://colab.research.google.com/drive/1G4XdsZd7ZYDYtmiQoDW6tsEIFyOOggrD)
+[Reading Corner 7](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_07.ipynb)
 
-[Reading Corner 8](https://colab.research.google.com/drive/1ntDYw4KYuLPqkkJ1IzmQkeYeJIPhy21_)
+[Reading Corner 8](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_08.ipynb)
 
-[Reading Corner 9](https://colab.research.google.com/drive/1Ihq10erIFdUhwop-zaP4gOQoRSi3aip3)
+[Reading Corner 9](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_09.ipynb)
 
-[Reading Corner 10](https://colab.research.google.com/drive/1e2CB17ZNobf-c71hDuNFt0bwiiWGlOjF)
+[Reading Corner 10](https://mybinder.org/v2/gh/WIN-SE-PythonCourse/materials/HEAD?labpath=lecture%2FReading_Corner_10.ipynb)
