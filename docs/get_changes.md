@@ -10,6 +10,8 @@ If there are any updates available the top of your repository view will look lik
 
 ![Update Available](update_img/img12.png)
 
+Before loading any changes, make sure that your codespace is submitted. To ensure everything works after the changes have been loaded, you should delete your codespace and create a new one after the update. Check [Submit your solution](codespace_use.md#submit-your-solution).
+
 To receive the changes, click on 'Sync fork' and afterwards click on the green 'Update branch' button.
 
 ![Receive Update](update_img/img13.png)
