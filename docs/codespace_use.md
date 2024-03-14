@@ -46,7 +46,7 @@ If there are console inputs in the cell, you can type inputs in the console in t
 
 ![Inputs](cs_img/img10.png)
 
-## Committing and Pushing your changes
+## Submit your solution
 
 After developing a solution, you can trigger a test run by submitting your changes. You have to submit your changes or we cannot see them, which means we can only give you points if you submitted your solution. You can and should submit your code multiple times, to both save your progress for grading and get test feedback on what you have implemented. When you are done with the assignment you should **always** submit your code one last time. 
 
