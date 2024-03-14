@@ -3,3 +3,7 @@
 ---
 
 [How to use codespaces](docs/codespace_use.md)
+
+---
+
+[Codespace Troubleshooting](docs/codespace_troubleshooting.md)
